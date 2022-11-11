@@ -1,0 +1,26 @@
+{
+  "name": "hexlet-jest",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "_tests_.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ilya-67/hexlet-jest.git"
+  },
+  "author": "Ilya-67",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ilya-67/hexlet-jest/issues"
+  },
+  "homepage": "https://github.com/Ilya-67/hexlet-jest#readme",
+  "devDependencies": {
+    "eslint": "^8.27.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "jest": "^29.3.1"
+  }
+}
